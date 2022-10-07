@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A1CDAD0E-4299-08E3-9CA0-D68567EBB64E}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "wiz_ed",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
